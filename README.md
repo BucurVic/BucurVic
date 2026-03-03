@@ -6,11 +6,6 @@
 
 I'm a third-year Computer Science student at Babes-Bolyai University passionate about turning ideas into functional, elegant software. Whether it's crafting scalable full-stack applications or exploring the depths of AI, I'm driven by the thrill of solving real problems through code.
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BucurVic&show_icons=true&theme=radical&hide_border=true" alt="BucurVic's GitHub Stats" />
-</p>
-
 ## 🛠️ Tech Stack & Skills
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
